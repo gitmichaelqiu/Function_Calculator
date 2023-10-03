@@ -1,4 +1,4 @@
-# FunctionCalculator_v3.0
+# Function_Calculator_v3.0
 ## Main Function
 1. Calculate linear function
 2. Calculate quadratic function
